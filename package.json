@@ -1,0 +1,24 @@
+{
+  "name": "offLineDev.js",
+  "version": "0.0.0",
+  "description": "makes Makes web pages work off line by modifying the paths to linked assets to point to local versions of those assets (and downloading any assets that are not already locally available).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanwills/offLineDev.js.git"
+  },
+  "keywords": [
+    "js",
+    "node.js",
+    "front end dev"
+  ],
+  "author": "Evan Wills",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/evanwills/offLineDev.js/issues"
+  },
+  "homepage": "https://github.com/evanwills/offLineDev.js"
+}
